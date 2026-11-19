@@ -1,0 +1,10 @@
+Four-cut multisets fixed by a cube symmetry | number of symmetries
+     3 | 8
+    13 | 12
+    15 | 8
+   345 | 3
+   545 | 6
+   885 | 4
+  1413 | 6
+163185 | 1
+Burnside orbit count: 179808/48 = 3746

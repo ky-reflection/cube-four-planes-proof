@@ -1,0 +1,5 @@
+relative offset at most 307/2500: 1 boxes, zero unresolved
+smaller nonpivot at most 79/500: 121 boxes, zero unresolved
+both nonpivots at most 1/60: 1 boxes, zero unresolved
+both nonpivots at most 27/200: 1 boxes, zero unresolved
+unrestricted row under cap constraint: 975 boxes, zero unresolved

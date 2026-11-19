@@ -1,0 +1,3 @@
+Vertex records: 206 two-edge, 774 one-edge, 756 nonalternating zero-edge.
+All 81 pivot choices give the six listed orbits.
+1200: 64 sectors, 128 cross-check patches, {'angular': 12370888, 'cap': 40147377, 'leaves': 4645488, 'contractions': 3079976}

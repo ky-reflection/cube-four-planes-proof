@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1312" height="732" viewBox="0 0 656 366">
+<rect width="656" height="366" fill="#fff"/>
+<text x="19.0000" y="36.0000" font-size="23" font-weight="600" fill="#233847" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">四刀在立方体表面的交线</text>
+<text x="350.0000" y="36.0000" font-size="23" font-weight="600" fill="#233847" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">右侧面  x = ½</text>
+<polygon points="177.1800,199.7619 177.1800,161.1000 203.4701,140.6092 203.4701,140.6092" fill="#f6bf73" stroke="#718791" stroke-width="1.15" stroke-linejoin="round"/>
+<polygon points="266.9400,223.1400 222.0600,258.1200 266.9400,157.1400" fill="#e4eaf0" stroke="#718791" stroke-width="1.15" stroke-linejoin="round"/>
+<polygon points="222.0600,258.1200 177.1800,199.7619 203.4701,140.6092 266.9400,157.1400" fill="#76c4be" stroke="#718791" stroke-width="1.15" stroke-linejoin="round"/>
+<polygon points="222.0600,258.1200 177.1800,293.1000 177.1800,199.7619" fill="#e4eaf0" stroke="#718791" stroke-width="1.15" stroke-linejoin="round"/>
+<polygon points="203.4701,140.6092 203.4701,140.6092 266.9400,91.1400 266.9400,157.1400" fill="#e4eaf0" stroke="#718791" stroke-width="1.15" stroke-linejoin="round"/>
+<polygon points="266.9400,223.1400 177.1800,293.1000 177.1800,161.1000 266.9400,91.1400" fill="none" stroke="#233847" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="141.9977,148.7282 177.1800,161.1000 177.1800,199.7619" fill="#f6bf73" stroke="#718791" stroke-width="1.15" stroke-linejoin="round"/>
+<polygon points="57.0600,250.8600 57.0600,184.8600 117.1200,271.9800" fill="#f1f4f6" stroke="#718791" stroke-width="1.15" stroke-linejoin="round"/>
+<polygon points="57.0600,184.8600 141.9977,148.7282 177.1800,199.7619 117.1200,271.9800" fill="#f1f4f6" stroke="#718791" stroke-width="1.15" stroke-linejoin="round"/>
+<polygon points="177.1800,199.7619 177.1800,293.1000 117.1200,271.9800" fill="#f1f4f6" stroke="#718791" stroke-width="1.15" stroke-linejoin="round"/>
+<polygon points="57.0600,184.8600 57.0600,118.8600 141.9977,148.7282" fill="#f1f4f6" stroke="#718791" stroke-width="1.15" stroke-linejoin="round"/>
+<polygon points="57.0600,250.8600 57.0600,118.8600 177.1800,161.1000 177.1800,293.1000" fill="none" stroke="#233847" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="203.4701,140.6092 177.1800,161.1000 141.9977,148.7282" fill="#f6bf73" stroke="#718791" stroke-width="1.15" stroke-linejoin="round"/>
+<polygon points="146.8200,48.9000 206.8800,70.0200 101.9400,83.8800" fill="#fafbfc" stroke="#718791" stroke-width="1.15" stroke-linejoin="round"/>
+<polygon points="206.8800,70.0200 203.4701,140.6092 141.9977,148.7282 141.9977,148.7282 101.9400,83.8800" fill="#fafbfc" stroke="#718791" stroke-width="1.15" stroke-linejoin="round"/>
+<polygon points="206.8800,70.0200 266.9400,91.1400 203.4701,140.6092" fill="#fafbfc" stroke="#718791" stroke-width="1.15" stroke-linejoin="round"/>
+<polygon points="141.9977,148.7282 57.0600,118.8600 101.9400,83.8800" fill="#fafbfc" stroke="#718791" stroke-width="1.15" stroke-linejoin="round"/>
+<polygon points="146.8200,48.9000 266.9400,91.1400 177.1800,161.1000 57.0600,118.8600" fill="none" stroke="#233847" stroke-width="2" stroke-linejoin="round"/>
+<path d="M286.0000 176.0000 L327.0000 176.0000" fill="none" stroke="#516878" stroke-width="1.8"/>
+<polygon points="327.0000,171.0000 337.0000,176.0000 327.0000,181.0000" fill="#516878" stroke="#516878" stroke-width="0.8" stroke-linejoin="round"/>
+<polygon points="374.0000,131.2858 374.0000,73.0000 432.2858,73.0000 432.2858,73.0000" fill="#f6bf73" stroke="#536b77" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="573.0000,272.0000 473.5000,272.0000 573.0000,172.5000" fill="#f0f3f5" stroke="#536b77" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="473.5000,272.0000 374.0000,131.2858 432.2858,73.0000 573.0000,172.5000" fill="#76c4be" stroke="#536b77" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="473.5000,272.0000 374.0000,272.0000 374.0000,131.2858" fill="#f0f3f5" stroke="#536b77" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="432.2858,73.0000 432.2858,73.0000 573.0000,73.0000 573.0000,172.5000" fill="#f0f3f5" stroke="#536b77" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="573.0000,272.0000 374.0000,272.0000 374.0000,73.0000 573.0000,73.0000" fill="none" stroke="#233847" stroke-width="2" stroke-linejoin="round"/>
+<text x="388.0000" y="95.0000" font-size="16" font-weight="400" fill="#233847" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">L₁</text>
+<text x="545.0000" y="95.0000" font-size="16" font-weight="400" fill="#233847" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">L₃</text>
+<text x="388.0000" y="259.0000" font-size="16" font-weight="400" fill="#233847" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">L₂</text>
+<text x="545.0000" y="259.0000" font-size="16" font-weight="400" fill="#233847" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">L₀</text>
+<text x="473.0000" y="178.0000" font-size="17" font-weight="600" fill="#233847" text-anchor="middle" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">L₀、L₁ 为正</text>
+<path d="M19.0000 307.0000 L636.0000 307.0000" fill="none" stroke="#d7dfe2" stroke-width="1"/>
+<polygon points="24.0000,328.0000 39.0000,328.0000 39.0000,343.0000 24.0000,343.0000" fill="#76c4be" stroke="#233847" stroke-width="0.9" stroke-linejoin="round"/>
+<text x="49.0000" y="342.0000" font-size="18" font-weight="400" fill="#233847" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">一个大块的底面</text>
+<polygon points="328.0000,328.0000 343.0000,328.0000 343.0000,343.0000 328.0000,343.0000" fill="#f6bf73" stroke="#233847" stroke-width="0.9" stroke-linejoin="round"/>
+<text x="353.0000" y="342.0000" font-size="18" font-weight="400" fill="#233847" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">同一小块的三个底面三角形</text>
+</svg>

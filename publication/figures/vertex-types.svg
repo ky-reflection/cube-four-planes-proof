@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="756" viewBox="0 0 660 378">
+<rect width="660" height="378" fill="#fff"/>
+<path d="M85.0000 101.5000 L85.0000 37.5000" fill="none" stroke="#a6b4bd" stroke-width="1.3" stroke-dasharray="4 3"/>
+<path d="M85.0000 101.5000 L54.0000 130.5000" fill="none" stroke="#a6b4bd" stroke-width="1.3" stroke-dasharray="4 3"/>
+<path d="M85.0000 101.5000 L140.0000 123.5000" fill="none" stroke="#a6b4bd" stroke-width="1.3" stroke-dasharray="4 3"/>
+<path d="M85.0000 37.5000 L54.0000 66.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M85.0000 37.5000 L140.0000 59.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M54.0000 130.5000 L54.0000 66.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M54.0000 130.5000 L109.0000 152.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M54.0000 66.5000 L109.0000 88.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M140.0000 123.5000 L140.0000 59.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M140.0000 123.5000 L109.0000 152.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M140.0000 59.5000 L109.0000 88.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M109.0000 152.5000 L109.0000 88.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<circle cx="85.0000" cy="101.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="85.0000" cy="37.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="54.0000" cy="130.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="140.0000" cy="123.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="54.0000" cy="66.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="140.0000" cy="59.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="109.0000" cy="152.5000" r="5.3" fill="#008278" stroke="#00665e" stroke-width="1.4"/>
+<circle cx="109.0000" cy="88.5000" r="5.3" fill="#008278" stroke="#00665e" stroke-width="1.4"/>
+<text x="166.0000" y="92.0000" font-size="17" font-weight="600" fill="#18344a" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">棱</text>
+<text x="166.0000" y="118.0000" font-size="14" font-weight="400" fill="#526a7c" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">12 种无向分法</text>
+<path d="M403.0000 101.5000 L403.0000 37.5000" fill="none" stroke="#a6b4bd" stroke-width="1.3" stroke-dasharray="4 3"/>
+<path d="M403.0000 101.5000 L372.0000 130.5000" fill="none" stroke="#a6b4bd" stroke-width="1.3" stroke-dasharray="4 3"/>
+<path d="M403.0000 101.5000 L458.0000 123.5000" fill="none" stroke="#a6b4bd" stroke-width="1.3" stroke-dasharray="4 3"/>
+<path d="M403.0000 37.5000 L372.0000 66.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M403.0000 37.5000 L458.0000 59.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M372.0000 130.5000 L372.0000 66.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M372.0000 130.5000 L427.0000 152.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M372.0000 66.5000 L427.0000 88.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M458.0000 123.5000 L458.0000 59.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M458.0000 123.5000 L427.0000 152.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M458.0000 59.5000 L427.0000 88.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M427.0000 152.5000 L427.0000 88.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<circle cx="403.0000" cy="101.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="403.0000" cy="37.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="372.0000" cy="130.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="458.0000" cy="123.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="372.0000" cy="66.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="458.0000" cy="59.5000" r="5.3" fill="#008278" stroke="#00665e" stroke-width="1.4"/>
+<circle cx="427.0000" cy="152.5000" r="5.3" fill="#008278" stroke="#00665e" stroke-width="1.4"/>
+<circle cx="427.0000" cy="88.5000" r="5.3" fill="#008278" stroke="#00665e" stroke-width="1.4"/>
+<text x="484.0000" y="92.0000" font-size="17" font-weight="600" fill="#18344a" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">同一面上三个顶点</text>
+<text x="484.0000" y="118.0000" font-size="14" font-weight="400" fill="#526a7c" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">24 种无向分法</text>
+<path d="M85.0000 285.5000 L85.0000 221.5000" fill="none" stroke="#a6b4bd" stroke-width="1.3" stroke-dasharray="4 3"/>
+<path d="M85.0000 285.5000 L54.0000 314.5000" fill="none" stroke="#a6b4bd" stroke-width="1.3" stroke-dasharray="4 3"/>
+<path d="M85.0000 285.5000 L140.0000 307.5000" fill="none" stroke="#a6b4bd" stroke-width="1.3" stroke-dasharray="4 3"/>
+<path d="M85.0000 221.5000 L54.0000 250.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M85.0000 221.5000 L140.0000 243.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M54.0000 314.5000 L54.0000 250.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M54.0000 314.5000 L109.0000 336.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M54.0000 250.5000 L109.0000 272.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M140.0000 307.5000 L140.0000 243.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M140.0000 307.5000 L109.0000 336.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M140.0000 243.5000 L109.0000 272.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M109.0000 336.5000 L109.0000 272.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<circle cx="85.0000" cy="285.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="85.0000" cy="221.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="54.0000" cy="314.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="140.0000" cy="307.5000" r="5.3" fill="#008278" stroke="#00665e" stroke-width="1.4"/>
+<circle cx="54.0000" cy="250.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="140.0000" cy="243.5000" r="5.3" fill="#008278" stroke="#00665e" stroke-width="1.4"/>
+<circle cx="109.0000" cy="336.5000" r="5.3" fill="#008278" stroke="#00665e" stroke-width="1.4"/>
+<circle cx="109.0000" cy="272.5000" r="5.3" fill="#008278" stroke="#00665e" stroke-width="1.4"/>
+<text x="166.0000" y="276.0000" font-size="17" font-weight="600" fill="#18344a" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">整面</text>
+<text x="166.0000" y="302.0000" font-size="14" font-weight="400" fill="#526a7c" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">3 种无向分法</text>
+<path d="M403.0000 285.5000 L403.0000 221.5000" fill="none" stroke="#a6b4bd" stroke-width="1.3" stroke-dasharray="4 3"/>
+<path d="M403.0000 285.5000 L372.0000 314.5000" fill="none" stroke="#a6b4bd" stroke-width="1.3" stroke-dasharray="4 3"/>
+<path d="M403.0000 285.5000 L458.0000 307.5000" fill="none" stroke="#a6b4bd" stroke-width="1.3" stroke-dasharray="4 3"/>
+<path d="M403.0000 221.5000 L372.0000 250.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M403.0000 221.5000 L458.0000 243.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M372.0000 314.5000 L372.0000 250.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M372.0000 314.5000 L427.0000 336.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M372.0000 250.5000 L427.0000 272.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M458.0000 307.5000 L458.0000 243.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M458.0000 307.5000 L427.0000 336.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M458.0000 243.5000 L427.0000 272.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<path d="M427.0000 336.5000 L427.0000 272.5000" fill="none" stroke="#27445a" stroke-width="1.3"/>
+<circle cx="403.0000" cy="285.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="403.0000" cy="221.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="372.0000" cy="314.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="458.0000" cy="307.5000" r="5.3" fill="#ffffff" stroke="#8a9da9" stroke-width="1.4"/>
+<circle cx="372.0000" cy="250.5000" r="5.3" fill="#008278" stroke="#00665e" stroke-width="1.4"/>
+<circle cx="458.0000" cy="243.5000" r="5.3" fill="#008278" stroke="#00665e" stroke-width="1.4"/>
+<circle cx="427.0000" cy="336.5000" r="5.3" fill="#008278" stroke="#00665e" stroke-width="1.4"/>
+<circle cx="427.0000" cy="272.5000" r="5.3" fill="#008278" stroke="#00665e" stroke-width="1.4"/>
+<text x="484.0000" y="276.0000" font-size="17" font-weight="600" fill="#18344a" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">角星</text>
+<text x="484.0000" y="302.0000" font-size="14" font-weight="400" fill="#526a7c" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">4 种无向分法</text>
+</svg>

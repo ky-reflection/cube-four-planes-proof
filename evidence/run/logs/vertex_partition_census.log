@@ -1,0 +1,12 @@
+three-plane types: 377; four-plane types: 3746 -> 3496 -> 3177
+affine four-plane types by edge count (0 through 4):
+previous tests: [1071, 1374, 618, 108, 6]; total 3177
+three-edge theorem: [1071, 1374, 618, 0, 0]; total 3063
+common hulls: [791, 785, 207, 0, 0]; total 1783
+affine star pair: [757, 774, 206, 0, 0]; total 1737
+two edges: 74 parallel, 132 skew
+centered: 22 types, including two constant types; among the other 20:
+repeated star: 8; alternating: 1; one face / three distinct stars: 1
+2 faces: ZZAD ZZAB ZYAD ZXAD
+3 faces: ZZZA ZZYA ZYXA
+4 faces: ZZZY ZZYY ZZYX

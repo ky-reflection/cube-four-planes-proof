@@ -1,0 +1,6 @@
+Vertex records: 206 two-edge, 774 one-edge, 756 nonalternating zero-edge.
+All 81 pivot choices give the six listed orbits.
+1200: 64 sectors, 128 cross-check patches, {'angular': 12370888, 'cap': 40147377, 'leaves': 4645488, 'contractions': 3079976}
+2005 replay jobs passed and all log digests match.
+1 differences from historical tree statistics.
+pivot-1002: replay (2031702, 6924946, 64), record [(2033224, 6929879, 64)]

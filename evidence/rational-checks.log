@@ -1,0 +1,4 @@
+Integer inputs give exact 5/6 and 1/6 volumes and a rational cap enclosure.
+All 80 exact cell volumes agree with the article's symmetric-family formulas.
+4096 exact rational polytope volumes enclosed by both C++ integrators
+1152 exact centered pair volumes enclosed by the directional interpolant plus its certified error

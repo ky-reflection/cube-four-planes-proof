@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="810" viewBox="0 0 620 405">
+<rect width="620" height="405" fill="#fff"/>
+<polygon points="205.0000,250.0345 205.0000,202.0000 246.5991,177.9828 246.5991,177.9828" fill="#f9c777" stroke="#27445a" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="347.0282,284.0000 276.0141,325.0000 347.0282,202.0000" fill="#ccdeef" stroke="#27445a" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="276.0141,325.0000 205.0000,250.0345 246.5991,177.9828 347.0282,202.0000" fill="#9ddad5" stroke="#27445a" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="276.0141,325.0000 205.0000,366.0000 205.0000,250.0345" fill="#ccdeef" stroke="#27445a" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="246.5991,177.9828 246.5991,177.9828 347.0282,120.0000 347.0282,202.0000" fill="#ccdeef" stroke="#27445a" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="163.4009,177.9828 205.0000,202.0000 205.0000,250.0345" fill="#f9c777" stroke="#27445a" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="62.9718,284.0000 62.9718,202.0000 133.9859,325.0000" fill="#ccdeef" stroke="#27445a" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="62.9718,202.0000 163.4009,177.9828 205.0000,250.0345 133.9859,325.0000" fill="#9ddad5" stroke="#27445a" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="205.0000,250.0345 205.0000,366.0000 133.9859,325.0000" fill="#ccdeef" stroke="#27445a" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="62.9718,202.0000 62.9718,120.0000 163.4009,177.9828" fill="#ccdeef" stroke="#27445a" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="246.5991,177.9828 205.0000,202.0000 163.4009,177.9828" fill="#f9c777" stroke="#27445a" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="205.0000,38.0000 276.0141,79.0000 133.9859,79.0000" fill="#ccdeef" stroke="#27445a" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="276.0141,79.0000 246.5991,177.9828 163.4009,177.9828 163.4009,177.9828 133.9859,79.0000" fill="#9ddad5" stroke="#27445a" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="276.0141,79.0000 347.0282,120.0000 246.5991,177.9828" fill="#ccdeef" stroke="#27445a" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="163.4009,177.9828 62.9718,120.0000 133.9859,79.0000" fill="#ccdeef" stroke="#27445a" stroke-width="1.6" stroke-linejoin="round"/>
+<text x="384.0000" y="112.0000" font-size="25" font-weight="600" fill="#18344a" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">14 个空间块</text>
+<circle cx="394.0000" cy="150.0000" r="7" fill="#9ddad5" stroke="#27445a" stroke-width="0.8"/>
+<text x="410.0000" y="154.0000" font-size="15" font-weight="400" fill="#18344a" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">6 个两正块</text>
+<text x="410.0000" y="176.0000" font-size="14" font-weight="400" fill="#526a7c" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">每块体积 m</text>
+<circle cx="394.0000" cy="216.0000" r="7" fill="#ccdeef" stroke="#27445a" stroke-width="0.8"/>
+<text x="410.0000" y="220.0000" font-size="15" font-weight="400" fill="#18344a" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">6 个较大的单正或三正块</text>
+<text x="410.0000" y="242.0000" font-size="14" font-weight="400" fill="#526a7c" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">每块体积 m</text>
+<circle cx="394.0000" cy="282.0000" r="7" fill="#f9c777" stroke="#27445a" stroke-width="0.8"/>
+<text x="410.0000" y="286.0000" font-size="15" font-weight="400" fill="#18344a" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">2 个较小的对顶块</text>
+<text x="410.0000" y="308.0000" font-size="14" font-weight="400" fill="#526a7c" text-anchor="start" font-family="Hiragino Sans GB, Noto Sans CJK SC, sans-serif">每块体积约 0.02145</text>
+</svg>

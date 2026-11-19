@@ -1,0 +1,6 @@
+[9/50, 1/2]: tetrahedron <= 0.0052672460, total loss <= 0.2681087424
+[1/4, 13/20]: tetrahedron <= 0.0050395411, total loss <= 0.2993158485
+[3/10, 37/50]: tetrahedron <= 0.0045552414, total loss <= 0.3160996680
+[2/5, 89/100]: tetrahedron <= 0.0034660789, total loss <= 0.3413102070
+[9/20, 93/100]: tetrahedron <= 0.0026759807, total loss <= 0.3467502220
+All pivot patterns, [7/10, 1]: tetrahedron <= 0.0008565925, offset squares <= 0.0284310223 after 10 refinements
