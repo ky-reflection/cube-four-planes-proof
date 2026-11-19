@@ -81,4 +81,6 @@ $$
 
 等号还要多走一步。如果极限切法满足 $M=m$，由于 $m<q_*$，充分靠后的近似切法都满足 $M<q_*$。它们的方向都在上面的局部闭邻域及其有限个对称像里，极限也在其中。对极限方向和它的实际偏移应用局部定理，四刀必须回到开头的构型。
 
-所以最小的最大块体积恰为 $(1+2\sqrt2)/48$，所有最优切法都与图一等价。构造及体积可以手算。全局下界中的七块估计、连续参数覆盖和局部二阶比较使用计算机辅助证明。详细推导、逐类记录和复算命令预计发布在 GitHub 仓库 [ky-reflection/cube-four-planes-proof](https://github.com/ky-reflection/cube-four-planes-proof)。
+所以最小的最大块体积恰为 $(1+2\sqrt2)/48$，所有最优切法都与图一等价。构造及体积可以手算。全局下界中的七块估计、连续参数覆盖和局部二阶比较使用计算机辅助证明。
+
+证明文稿、验证源码和逐项日志已公开。全部 2,005 项复算通过。读者可按仓库首页的命令核对日志，或下载 v1.0.0 附件，从源码复算。[GitHub 仓库](https://github.com/ky-reflection/cube-four-planes-proof) · [验证报告](https://github.com/ky-reflection/cube-four-planes-proof/blob/v1.0.0/evidence/verification.log) · [v1.0.0 下载](https://github.com/ky-reflection/cube-four-planes-proof/releases/tag/v1.0.0)

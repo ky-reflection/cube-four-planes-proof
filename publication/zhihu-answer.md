@@ -218,4 +218,4 @@ $$
 
 这些计算并非网格采样或数值优化，而是**严格区间算术与分支定界闭覆盖**：在每个闭参数盒上，利用单调参数化构造盒内所有切法共同包含的保守半空间交集，经投影积分得到对全盒一致成立的体积下界；单块不足时配以非负权重验证 $\sum w_i V_i > q \sum w_i$（从而至少一块超过 $q$）。搜索权重时可借助浮点线性规划，但淘汰参数盒的最终不等式一律改用**无舍入整数运算、精确有理数或向外舍入区间**复核。尚未排除的盒子继续收紧或二分，直至覆盖树所有叶子闭合、未决数为零，由此构成整个连续参数域上的严格证明。
 
-本文的证明文稿、验证源码和逐项复算记录预计发布在 GitHub 仓库 [ky-reflection/cube-four-planes-proof](https://github.com/ky-reflection/cube-four-planes-proof)。读者可按仓库首页的命令核对已有记录，也可从源码重新运行全部 2,005 项验证。
+证明文稿、验证源码和逐项日志已公开。全部 2,005 项复算通过。读者可按仓库首页的命令核对日志，或下载 v1.0.0 附件，从源码复算。[GitHub 仓库](https://github.com/ky-reflection/cube-four-planes-proof) · [验证报告](https://github.com/ky-reflection/cube-four-planes-proof/blob/v1.0.0/evidence/verification.log) · [v1.0.0 下载](https://github.com/ky-reflection/cube-four-planes-proof/releases/tag/v1.0.0)
